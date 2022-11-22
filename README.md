@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheuskkj77" alt="matheuskkj77" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@_matheuskkj" target="blank"><img src="https://img.shields.io/twitter/follow/@_matheuskkj?logo=twitter&style=for-the-badge" alt="@_matheuskkj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@__matheuskkj" target="blank"><img src="https://img.shields.io/twitter/follow/@__matheuskkj?logo=twitter&style=for-the-badge" alt="@__matheuskkj" /></a> </p>
 
 - 🔭 I’m currently working on **projeto do Adeilson**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@_matheuskkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_matheuskkj" height="30" width="40" /></a>
+<a href="https://twitter.com/@__matheuskkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@__matheuskkj" height="30" width="40" /></a>
 <a href="https://instagram.com/@_matheuskkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_matheuskkj" height="30" width="40" /></a>
 </p>
 
