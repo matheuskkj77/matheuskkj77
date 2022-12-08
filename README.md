@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=HELLO+WORLD+🤙&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 # 💫 About Me:
 <br>- 🔭 I’m currently working on trabalho do DD  <br>- 🌱 I’m currently learning HTML, JS, CSS and PHP 
 
