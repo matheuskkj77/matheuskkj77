@@ -2,11 +2,10 @@
 
 ### Hello Word <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<h3 align="left">Hi 👋! My name is Matheus and I'm a programing passionate from Brazil. <br>I'm IT Technician and majoring in Information Systems.</h3>
+<img align="right" height="230" src="https://www.icegif.com/wp-content/uploads/luffy-icegif-23.gif"  />
+<h4 align="left">Hi 👋! My name is Matheus and I'm a programing passionate from Brazil. <br>I'm IT Technician and majoring in Information Systems.</h4>
 
 ### Socials:
-<img align="right" height="215" src="https://www.icegif.com/wp-content/uploads/luffy-icegif-23.gif"  />
-
 
 <div align="left">
   <a href="https://www.instagram.com/_matheus.kkj" target="_blank">
@@ -35,6 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuskkj77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="190" alt="languages graph"  />
 </div>
 
+###
 <br>
 <br>
 
@@ -42,4 +42,5 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qouescpeewku6eeqfozbsgicde&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=5b9759&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"  />
 </div>
 
+###
 [![](https://visitcount.itsvg.in/api?id=matheuskkj77&icon=0&color=0)](https://visitcount.itsvg.in)
