@@ -2,8 +2,8 @@
 
 ### Hello Word <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-<img align="right" height="230" src="https://www.icegif.com/wp-content/uploads/luffy-icegif-23.gif"  />
 <h4 align="left">Hi 👋! My name is Matheus and I'm a programing passionate from Brazil. <br>I'm IT Technician and majoring in Information Systems.</h4>
+<img align="right" height="220" src="https://www.icegif.com/wp-content/uploads/luffy-icegif-23.gif"  />
 
 ### Socials:
 
