@@ -43,10 +43,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/matheus">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=matheus&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qouescpeewku6eeqfozbsgicde&unique={true|1|on|yes})
