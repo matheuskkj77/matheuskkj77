@@ -52,8 +52,8 @@
 ###
 
 <div align="left">
+  <a href="www.linkedin.com/in/matheus-shaddai-509278277/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="28" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="28" alt="instagram logo"  />
 </div>
 
 ###
