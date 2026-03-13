@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World!</h1>
 
 ###
-<img align="right" height="150" src="https://i.gifer.com/4OKl.gif"  />
+<img align="right" height="200" src="https://i.gifer.com/Q568.gif"  />
 
 <p align="left">I'm a brazilian developer passionate about building clean and efficient solutions.<br>IT Technician and Information Systems undergraduate.</p>
 <hr style="border: none; height: 1px; background-color: #f6e6f0; margin: 10px 0;">
